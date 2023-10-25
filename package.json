@@ -1,0 +1,22 @@
+{
+  "name": "jest-test",
+  "version": "1.0.0",
+  "description": "Testing jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test-unit",
+    "test-unit": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "jest-test"
+  },
+  "keywords": [
+    "jest"
+  ],
+  "author": "jt",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.2.0"
+  }
+}
